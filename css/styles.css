@@ -1,0 +1,70 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  color: black;
+}
+
+.button:hover {
+  color: #2196f3;
+}
+
+.button {
+  cursor: pointer;
+}
+
+.linknav:hover {
+  background-color: #2196f3;
+  padding: 5px;
+  color: black;
+}
+
+.nav {
+  font-weight: 500;
+  text-decoration: none;
+  color: black;
+  float: left;
+  margin-left: 46px;
+  padding: 5px;
+}
+.header-list {
+  list-style-type: none;
+}
+
+.contacts {
+  font-weight: 500;
+  text-decoration: none;
+  color: #757575;
+  float: right;
+  padding: 5px;
+}
+
+.logo {
+  font-weight: 500;
+  text-decoration: none;
+  color: black;
+  float: left;
+  padding: 5px;
+}
+
+.logospan {
+  color: #2196f3;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.linklogo {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.all-buttons {
+  margin: 10px;
+}
+
+.all-photos {
+  list-style-type: none;
+}
+
+.indexfile-list {
+  list-style-type: none;
+}
